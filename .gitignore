@@ -1,0 +1,72 @@
+# Assembly files
+*.asm
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Intel Hex files
+*.ihx
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Linker output
+*.exp
+*.ilk
+*.lk
+*.map
+
+# Mapping files
+*.lst
+
+# MSX development files
+*.noi
+
+# Object files
+*.elf
+*.ko
+*.o
+*.obj
+*.rel
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Prerequisites
+*.d
+
+# ROM files
+*.rom
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Symbol files
+*.sym
